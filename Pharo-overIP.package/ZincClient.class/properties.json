@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "ZnClient",
+	"category" : "Pharo-overIP",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ZincClient",
+	"type" : "normal"
+}

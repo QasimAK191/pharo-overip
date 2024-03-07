@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "ZnServer",
+	"category" : "Pharo-overIP",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ZincServer",
+	"type" : "normal"
+}

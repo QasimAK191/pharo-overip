@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "ZnClient",
+	"category" : "Pharo-overIP",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"port",
+		"url",
+		"user",
+		"password",
+		"handshake"
+	],
+	"name" : "CanvasClient",
+	"type" : "normal"
+}
