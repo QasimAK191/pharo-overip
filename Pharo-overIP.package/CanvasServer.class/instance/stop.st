@@ -1,6 +1,4 @@
-connection open/close
+public
 stop
-	"comment stating purpose of instance-side method"
-	"scope: class-variables  &  instance-variables"
-
-	ZnServer stop.
+	
+	^ znServer stop

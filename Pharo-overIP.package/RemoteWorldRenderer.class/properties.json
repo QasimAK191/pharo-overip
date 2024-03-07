@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "AbstractWorldRenderer",
+	"category" : "Pharo-overIP-Worlds",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"localRenderer",
+		"stuffISent"
+	],
+	"name" : "RemoteWorldRenderer",
+	"type" : "normal"
+}

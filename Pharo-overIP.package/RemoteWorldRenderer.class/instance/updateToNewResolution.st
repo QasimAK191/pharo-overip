@@ -1,0 +1,4 @@
+events
+updateToNewResolution
+
+	^ localRenderer updateToNewResolution 
