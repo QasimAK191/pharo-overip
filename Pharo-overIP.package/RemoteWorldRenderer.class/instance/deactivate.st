@@ -1,4 +1,4 @@
 private
 deactivate
 
-	^ localRenderer deactivate 
+	World worldState worldRenderer: localRenderer 
