@@ -1,6 +1,6 @@
 initialize
-startOn: port
-	 port
-	"Start on instance variable: port"
+startOn: aPort
 
-	ZnServer startDefaultOn: port.
+	znServer
+		port: aPort;
+		start

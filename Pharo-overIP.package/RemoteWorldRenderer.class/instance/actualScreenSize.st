@@ -1,0 +1,4 @@
+accessing
+actualScreenSize
+
+	^ localRenderer actualScreenSize
