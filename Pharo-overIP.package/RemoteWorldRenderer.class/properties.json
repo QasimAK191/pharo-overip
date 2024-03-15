@@ -1,8 +1,10 @@
 {
-	"commentStamp" : "",
+	"commentStamp" : "Anonymous 3/14/2024 15:50",
 	"super" : "AbstractWorldRenderer",
-	"category" : "Pharo-overIP-Worlds",
-	"classinstvars" : [ ],
+	"category" : "Pharo-overIP-Render",
+	"classinstvars" : [
+		"soleInstance"
+	],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [

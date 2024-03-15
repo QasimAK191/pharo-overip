@@ -1,2 +1,2 @@
-I am a null renderer.
-I am used when we are in command line or during the initialization
+I am a dual renderer.
+I am used to support a remote display and the normal one.

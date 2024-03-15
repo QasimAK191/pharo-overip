@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "UIManager",
+	"category" : "Pharo-overIP-UI",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"ProgressBarEnabled"
+	],
+	"instvars" : [ ],
+	"name" : "RemoteUIManager",
+	"type" : "normal"
+}

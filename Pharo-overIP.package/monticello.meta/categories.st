@@ -1,1 +1,1 @@
-self packageOrganizer ensurePackage: #'Pharo-overIP' withTags: #(#Worlds)!
+self packageOrganizer ensurePackage: #'Pharo-overIP' withTags: #(#Render #UI)!

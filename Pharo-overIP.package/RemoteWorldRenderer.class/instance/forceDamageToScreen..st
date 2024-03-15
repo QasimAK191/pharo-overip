@@ -1,4 +1,5 @@
 operations
 forceDamageToScreen: allDamage
 
-	"Do Nothing"
+
+	^ localRenderer forceDamageToScreen: allDamage
