@@ -1,0 +1,4 @@
+activation
+updateWindowTitle
+
+	^ localRenderer updateWindowTitle
