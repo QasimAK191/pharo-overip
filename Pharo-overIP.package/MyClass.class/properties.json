@@ -5,11 +5,7 @@
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [
-		"znServer",
-		"fingerPrint",
-		"socket"
-	],
-	"name" : "CanvasServer",
+	"instvars" : [ ],
+	"name" : "MyClass",
 	"type" : "normal"
 }

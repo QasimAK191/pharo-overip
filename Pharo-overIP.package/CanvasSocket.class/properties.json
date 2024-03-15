@@ -1,11 +1,11 @@
 {
 	"commentStamp" : "",
-	"super" : "ZnClient",
+	"super" : "ZnWebSocket",
 	"category" : "Pharo-overIP",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "ZincClient",
+	"name" : "CanvasSocket",
 	"type" : "normal"
 }

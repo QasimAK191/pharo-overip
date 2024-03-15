@@ -1,11 +1,11 @@
 {
 	"commentStamp" : "",
-	"super" : "ZnServer",
+	"super" : "Object",
 	"category" : "Pharo-overIP",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "ZincServer",
+	"name" : "TMPClass",
 	"type" : "normal"
 }
