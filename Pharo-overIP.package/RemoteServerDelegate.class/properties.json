@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "ZnDefaultServerDelegate",
+	"category" : "Pharo-overIP",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "RemoteServerDelegate",
+	"type" : "normal"
+}

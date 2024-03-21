@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Pharo-overIP",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"znServer",
+		"fingerPrint",
+		"socket"
+	],
+	"name" : "RemoteServer",
+	"type" : "normal"
+}
