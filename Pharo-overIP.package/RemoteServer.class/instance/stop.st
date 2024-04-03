@@ -1,0 +1,4 @@
+public
+stop
+	
+	^ znServer stop
