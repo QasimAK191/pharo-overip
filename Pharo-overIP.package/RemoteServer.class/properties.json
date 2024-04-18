@@ -8,7 +8,7 @@
 	"instvars" : [
 		"znServer",
 		"fingerPrint",
-		"socket"
+		"port"
 	],
 	"name" : "RemoteServer",
 	"type" : "normal"

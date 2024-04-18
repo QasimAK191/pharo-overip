@@ -1,4 +1,0 @@
-events
-requestStopTextEditing
-
-	^ localRenderer requestStopTextEditing 

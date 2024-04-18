@@ -1,4 +1,0 @@
-profiling
-logRenderingTimeMeasurements: measurements
-
-	^ localRenderer logRenderingTimeMeasurements: measurements
